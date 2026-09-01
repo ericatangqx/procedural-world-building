@@ -10,10 +10,15 @@ This repository documents my work for Procedural World Building.
 
 ## Feature Backlog
 
-- Procedural terrain generation
-- Different biomes
-- Vegetation generation
-- Cities and settlements
-- Simulated populations
-- Agent behaviors
-- Procedural narratives
+- Procedurally generate terrain
+- Generate mountains and valleys
+- Add different biomes
+- Add water / oceans
+- Generate vegetation
+- Simulate weather
+- Generate cities or settlements
+- Add creatures or populations
+- Give agents different behaviors
+- Add a day/night cycle
+- Create a history for the world
+- Allow users to explore the world interactively
